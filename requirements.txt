@@ -1,0 +1,11 @@
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9
+python-dotenv>=1.0
+numpy>=1.26
+opencv-python==4.11.0.86
+onnxruntime>=1.18
+huggingface-hub>=0.24
+reportlab>=4.2
+httpx>=0.27
+pytest>=8.0
